@@ -1,2 +1,2 @@
-# CompTIA_Network_Plus
+# CompTIA Network Plus
 CompTIA Network+ -
